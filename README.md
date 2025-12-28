@@ -63,10 +63,7 @@ I enjoy transforming raw data into meaningful insights and building projects tha
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VRJ1718&show_icons=true&theme=tokyonight" alt="github stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VRJ1718&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VRJ1718&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VRJ1718&layout=compact&theme=tokyonight)
+
