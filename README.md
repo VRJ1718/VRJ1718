@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Vaibhav 👋
 
-<!--
-**VRJ1718/VRJ1718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring Data & Analytics Professional
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏅 Achievements
+- ⭐ HackerRank SQL – 5 Star
+- 🧠 Solved 100+ LeetCode problems (Python)
+- 📊 Hands-on projects in Data Analytics & Automation
+
+---
+
+## 🛠️ Skills
+- Python, SQL, Excel
+- Data Analysis & Visualization
+- DSA & Problem Solving
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VRJ1718&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VRJ1718&layout=compact)
+
