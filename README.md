@@ -19,7 +19,8 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VRJ1718&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VRJ1718&show_icons=true&theme=default&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VRJ1718&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VRJ1718&layout=compact&theme=default)
+
 
